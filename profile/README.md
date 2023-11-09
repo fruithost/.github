@@ -1,6 +1,6 @@
 ![Banner](https://raw.githubusercontent.com/fruithost/Documentation/main/Images/Banner.png)
 # Installation
-All informations and installations-instructions can be find in the [Documentation](https://github.com/fruithost/Documentation)!
+All informations and installations-instructions for ![](https://raw.githubusercontent.com/fruithost/Documentation/main/Images/LOGO_TEXT.png) **fruithost** can be find in the [Documentation](https://github.com/fruithost/Documentation)!
 
 [![INSTALL_NOW]](https://github.com/fruithost/Documentation/tree/main/Installation)
 
