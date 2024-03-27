@@ -11,8 +11,11 @@ Be a team-player, all feedbacks of our donations will have the priority. We will
 
 [![PAYPAL]](https://paypal.me/debitdirect) [![PATREON]](https://www.patreon.com/fruithost) [![GITHUB]](https://github.com/sponsors/fruithost)
 
+# Community
+[![DISCORD]](https://discord.gg/8pTWckusSC)
+
 # Contributing
-Feel free to help us with the developing! 
+Feel free to help us with the developing!
 
 [![CODE_OF_CONDUCT]](https://github.com/fruithost/Panel/blob/master/.github/CODE_OF_CONDUCT.md)
 [![CONTRIBUTING]](https://github.com/fruithost/Panel/blob/master/.github/CONTRIBUTING.md)
@@ -26,3 +29,4 @@ Feel free to help us with the developing!
 [CODE_OF_CONDUCT]: https://img.shields.io/badge/Code_of_Conduct-37a779?style=for-the-badge
 [CONTRIBUTING]: https://img.shields.io/badge/Contributing-37a779?style=for-the-badge
 [STYLING_GUIDELINES]: https://img.shields.io/badge/Styling_Guidelines-37a779?style=for-the-badge
+[DISCORD]: https://img.shields.io/badge/Discord-37a779?style=for-the-badge&logo=discord&color=%230d1117
